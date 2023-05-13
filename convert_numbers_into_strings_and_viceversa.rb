@@ -11,7 +11,6 @@ p str.to_f
 p str.to_f.class
 
 # converting number to string
-
 number = 10
 p number
 p number.class
