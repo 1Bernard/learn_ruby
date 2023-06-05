@@ -1,0 +1,1 @@
+Methods allows us to reduce duplication of code. A method is a grouped collection of Ruby statements that serves a purpose. Methods abstract the complexity of solving a problem. 
