@@ -14,4 +14,5 @@ def custom_last(arr, num = 0)
 end
 
 p custom_last(arr)
+p custom_last(arr, 6)
 p custom_last(arr, 5)
